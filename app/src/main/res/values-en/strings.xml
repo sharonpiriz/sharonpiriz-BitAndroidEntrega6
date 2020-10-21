@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CristhianSaavedra</string>
+    <string name="msgBienvenido">Welcome</string>
+    <string name="btnEntrar">Enter</string>
+</resources>
